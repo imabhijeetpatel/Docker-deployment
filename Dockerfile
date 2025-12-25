@@ -1,1 +1,3 @@
-Docker 
+From: Ubuntu
+Image: hello-world
+
